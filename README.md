@@ -14,3 +14,5 @@ In total, we have 3 levels of hierarchy and 5 main stages of computation. We ass
 4. Group activity
 5. Scene activity
 
+See individual folders for each stage.
+
