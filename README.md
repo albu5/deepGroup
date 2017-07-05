@@ -10,6 +10,10 @@ Hierarchical deep neural network for activity analysis of surveillance videos at
 4. Install keras https://keras.io/
 
 5. Throughout this repository, collective activity dataset is referred to http://www-personal.umich.edu/~wgchoi/eccv12/wongun_eccv12.html
+Reference:
+A Unified Framework for Multi-Target Tracking and Collective Activity Recognition
+ECCV, 2012, accepted as an Oral Presentation
+W. Choi and S. Savarese
 
 # Overview
 In total, we have 3 levels of hierarchy and 5 main stages of computation. We assume that individual tracklets are already known. The five stages are:
