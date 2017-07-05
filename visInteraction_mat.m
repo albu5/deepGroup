@@ -1,3 +1,8 @@
+%%
+% This script helps in visualizing pariwise interaction annotated using pairwise.m GUI
+
+
+% Set this path to appropriate directory where collective activity dataset is stored
 data_dir = './ActivityDataset';
 anno_dir = fullfile(data_dir, 'annotations');
 seq_str = 'seq%2.2d';

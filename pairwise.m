@@ -1,5 +1,13 @@
 function varargout = pairwise(varargin)
 % PAIRWISE MATLAB code for pairwise.fig
+%      PAIRWISE is an annotation tool for piarwise interaction in collective
+% 	   activity dataset. However, the design can be extended to other annotatios.
+%      
+%      To get started, just run pairwise.m and fill the sequence number to be
+%      annotated in the text box. Press start and start annotating.
+%      
+%      To edit existing annotation, change flag=false in function start_Callback
+%      
 %      PAIRWISE, by itself, creates a new PAIRWISE or raises the existing
 %      singleton*.
 %

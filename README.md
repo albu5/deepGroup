@@ -5,6 +5,12 @@ Hierarchical deep neural network for activity analysis of surveillance videos at
 
 2. Please cite our work if you use codes or ideas from this repository. A bibtex style citation can be found in [deepgroup-bibtex.bib](deepgroup-bibtex.bib)
 
+3. Both MATLAB and Python are used. Install appropriate python packages whenever needed (all required packages can be obtained from pip, conda etc).
+
+4. Install keras https://keras.io/
+
+5. Throughout this repository, collective activity dataset is referred to http://www-personal.umich.edu/~wgchoi/eccv12/wongun_eccv12.html
+
 # Overview
 In total, we have 3 levels of hierarchy and 5 main stages of computation. We assume that individual tracklets are already known. The five stages are:
 
