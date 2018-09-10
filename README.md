@@ -1,6 +1,8 @@
 # deepGroup
 Hierarchical deep neural network for activity analysis of surveillance videos at individual, group and overall level.
 
+(THIS REPO IS NOT MAINTAINED. Please refer to https://github.com/albu5/deepGroupv2)
+
 1. This is a research quality code, so don't expect it to work straightaway. However, I'll be delighted if someone uses my work. So you are encouraged to ask for help if you run into trouble raising an issue or contacting me via e-mail.
 
 2. Please cite our work if you use codes or ideas from this repository. A bibtex style citation can be found in [deepgroup-bibtex.bib](deepgroup-bibtex.bib)
